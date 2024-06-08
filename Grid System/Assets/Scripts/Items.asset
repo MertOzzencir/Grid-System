@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a74e4b1f807d33446b31695d290693b1, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Bed
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 6752327920027592936, guid: 1be1239822948d54bae7d52c844f2445, type: 3}
+  - <Name>k__BackingField: Chair
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6340388175601179084, guid: dbc13cb1a30b01d4885898ce7451dc9c, type: 3}
+  - <Name>k__BackingField: Desk
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 3365534113638357086, guid: 1a9834d09c3345f488f5e05da820540a, type: 3}
+  - <Name>k__BackingField: Floor
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1611103250891184682, guid: 81e60158d150f1b41843e7f1007b95e3, type: 3}
